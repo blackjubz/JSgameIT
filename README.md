@@ -1,2 +1,2 @@
 # JSgameIT
-Game made in JavaScript with no framework 
+Game made in JavaScript with no framework (IT, Penny Wise, Stephen King)
