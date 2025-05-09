@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+#jogo,#log{
+    width: 800px;
+    height: 600px;
+    margin-left: 20%;
+}
+#log{
+    background-image: url("img/devagar.gif");
+}
+#jogo{
+    background-image: url("img/bg-black.jpg");
+    display: none;
+}
+button{
+    margin-top: 35%;
+    margin-left: 40%;
+}
+#georgie,#fundo,.inimigos,#baloes,#pennywise,#contVidas {
+    position: absolute;
+}
+#georgie{
+    z-index: 3;
+}
+.inimigos{
+    z-index: 2;
+}
+#fundo{
+    z-index: 1;
+}
+#pennywise{
+    z-index: 3;
+}
+#contVidas{
+    margin-top: -550px;
+    margin-left: 7%;
+}
